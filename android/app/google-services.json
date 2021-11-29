@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922763213910",
+    "project_id": "grupo15car",
+    "storage_bucket": "grupo15car.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922763213910:android:b0921c33d74ab781b0cff7",
+        "android_client_info": {
+          "package_name": "com.vivisfore.firebase_grupo15"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922763213910-dqurbpkgh4inndsavaik0of5idc3irs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZpIFUi_Zpb5a_sKWOrVxfSIPZZFVR4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922763213910-dqurbpkgh4inndsavaik0of5idc3irs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
